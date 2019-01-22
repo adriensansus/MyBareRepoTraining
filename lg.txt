@@ -1,0 +1,30 @@
+* [33m8f4881b[m cherry_2.txt
+* [33m6b6b98c[m myCherry.txt
+* [33m0e07752[m ignore target et .test
+* [33m4c8d8c2[m ignore .test
+* [33m5e7f505[m GIT_110_4_local.txt
+* [33mb3b750d[m GIT_110_3_clone.txt
+* [33me9275c0[m GIT_110_2.txt
+* [33m1a24382[m GIT_110_1.txt
+[31m|[m [32m|[m[31m/[m  
+[31m|[m[31m/[m[32m|[m   
+* [32m|[m   [33m37d9c5e[m Merge branch 'branch2'
+[34m|[m[35m\[m [32m\[m  
+[34m|[m * [32m|[m [33m1297a35[m correctionBug_2
+* [35m|[m [32m|[m   [33m53c3cf9[m Merge branch 'branch1'
+[35m|[m[1;31m\[m [35m\[m [32m\[m  
+[35m|[m [1;31m|[m[35m/[m [32m/[m  
+[35m|[m[35m/[m[1;31m|[m [32m|[m   
+[35m|[m * [32m|[m [33m204325c[m correctionBug_1
+* [1;31m|[m [32m|[m [33mb88a71a[m commit 5
+[1;31m|[m[1;31m/[m [32m/[m  
+* [32m|[m [33mb7f9a7a[m Revert "commit 4"
+* [32m|[m [33m30fd01c[m commit 4
+* [32m|[m [33maa1a437[m Revert "new file_3"
+* [32m|[m [33mc393abc[m new file_3
+* [32m|[m [33m22904e5[m commit 3
+* [32m|[m [33m15ec1d1[m amendement 1
+[32m|[m[32m/[m  
+[32m|[m * [33ma322cbf[m branch_070
+[32m|[m[32m/[m  
+* [33m938cf55[m first commit
