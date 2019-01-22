@@ -6,11 +6,6 @@
 * [33mb3b750d[m GIT_110_3_clone.txt
 * [33me9275c0[m GIT_110_2.txt
 * [33m1a24382[m GIT_110_1.txt
-[31m|[m * [33mf9c3644[m cherry_2.txt
-[31m|[m * [33m82fd856[m cherry_1.txt
-[31m|[m * [33m8199c27[m modif 1
-[31m|[m * [33mf2ea685[m 1
-[31m|[m [32m|[m * [33m89f1e78[m GIT080
 [31m|[m [32m|[m[31m/[m  
 [31m|[m[31m/[m[32m|[m   
 * [32m|[m   [33m37d9c5e[m Merge branch 'branch2'
